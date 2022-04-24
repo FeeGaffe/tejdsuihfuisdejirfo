@@ -1,0 +1,10 @@
++ Log file initialized
++ Running the USB installer...
++ Getting online news...
++ Getting online news done (!!! WARNING: YOU MAY BE USING ILLEGAL KON-BOOT COPY (YOUR IP ADDRESS (185.189.113.76), GEO LOCATION (Paris, France) WAS LOGGED) -  >>> HTTPS://KON-BOOT.COM
+)
++ Listing all USB drives 
++ 0000 drive=5 physicalDrive=3 path=\\?\usbstor#disk&ven_vendorco&prod_productcode&rev_2.00#9207150943778823394&0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b} serial=
+
++ Drive was mapped to F: 
++ Log session ended
